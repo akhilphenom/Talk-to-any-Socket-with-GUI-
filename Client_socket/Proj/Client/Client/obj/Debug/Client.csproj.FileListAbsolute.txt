@@ -1,0 +1,9 @@
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\bin\Debug\Client.exe.config
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\bin\Debug\Client.exe
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\bin\Debug\Client.pdb
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\obj\Debug\Client.Form1.resources
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\obj\Debug\Client.exe
+E:\VASAVI\miniproject_ed\Client_socket\Proj\Client\Client\obj\Debug\Client.pdb
